@@ -1,0 +1,54 @@
+.App {
+  font-family: sans-serif;
+  margin-top: 5rem;
+  text-align: center;
+}
+
+body {
+  background: #38898c;
+  color: #ffffff;
+}
+
+input {
+  font-size: 16px !important;
+  line-height: 24px !important;
+  letter-spacing: normal !important;
+  text-transform: undefined !important;
+  color: #484848 !important;
+  padding-top: 11px !important;
+  padding-bottom: 11px !important;
+  background-color: transparent !important;
+  border: 2px solid #eee !important;
+  border-radius: 3px;
+  padding-left: 11px !important;
+  padding-right: 11px !important;
+  width: 60% !important;
+  margin: 0px !important;
+  text-overflow: ellipsis !important;
+}
+
+p {
+  overflow-wrap: break-word !important;
+  font-size: 12px !important;
+
+  letter-spacing: 0.0833333em !important;
+  color: #ff6a00;
+}
+
+span {
+  font-weight: 600 !important;
+  font-size: 16px !important;
+  color: rgb(72, 72, 72) !important;
+  padding-left: 10px;
+}
+
+.d-section {
+  background: #ffffff !important;
+  border-radius: 4px !important;
+  width: 408px !important;
+  padding: 32px !important;
+  margin-bottom: 16px !important;
+  margin: 0 auto;
+  color: #484848 !important;
+  text-align: left;
+}
